@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Lato|Bree+Serif);
+@import url(https://fonts.googleapis.com/css?family=Lato|Bree+Serif);
 
 * {
     box-sizing: border-box;
@@ -51,7 +51,7 @@ nav {
 nav a {
     font-family: Lato, Arial, Helvetica, sans-serif;
     text-decoration: none;
-    font-size: 1.24rem;
+    font-size: 1.25rem;
     color: #888
 }
 
